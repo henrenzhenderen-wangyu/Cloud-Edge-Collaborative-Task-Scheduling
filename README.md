@@ -1,0 +1,1 @@
+This dataset is a study of Cloud-Edge collaborative task scheduling and task offloading. The dataset references and improves upon the Pakistan and Topo4MEC datasets, the task attributes contain task unique identifier, size, source node name, generation time, deadline, number of CPU computation cycles required per bit, transmission bit rate, data type, etc.
